@@ -1,10 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
 
 ### Overview
 This project will house a collection of essential oils and what ailments they treat. It will allow users to search for an essential oil so they can see what it treats, as well as searching for ailments to see what essential oil can help with that. In addition, a user will be able to create their own profile to keep track of their favorite oils.
