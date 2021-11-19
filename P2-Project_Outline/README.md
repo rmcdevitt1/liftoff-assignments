@@ -7,22 +7,31 @@ This project was motivated by the need for a user to know what certain essential
 
 ### Features
 User Login: Users will be able to create accounts and log in to the application.
+
 Search: Users will be able to search for essentials oils by treatment or name.
+
 Save Favorite Oils: Users can store their favorite oils on their profile page.
+
 View Saved Oils: Users can view their favorite oils that they've saved to their profile.
+
 Delete Saved Oils: Users can delete oils that they've saved to their profile.
 
 
 ### Technologies
 C# ASP.NET MVC
+
 MySQL
+
 Bootstrap
+
 CSV file
 
 
 ### What I'll Have to Learn
 Make passwords more secure in database. (maybe)
+
 Reading from a CSV file.
+
 Get more familiar with Bootstrap.
 
 
