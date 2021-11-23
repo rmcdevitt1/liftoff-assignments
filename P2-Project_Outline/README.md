@@ -24,13 +24,10 @@ MySQL
 
 Bootstrap
 
-CSV file
 
 
 ### What I'll Have to Learn
 Make passwords more secure in database. (maybe)
-
-Reading from a CSV file.
 
 Get more familiar with Bootstrap.
 
