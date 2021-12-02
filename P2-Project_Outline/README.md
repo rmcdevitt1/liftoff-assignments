@@ -27,13 +27,13 @@ Bootstrap
 
 
 ### What I'll Have to Learn
-Make passwords more secure in database. (maybe)
+Make passwords more secure in database. (maybe) –– Hashing
 
 Get more familiar with Bootstrap.
 
-Email alerts.
+Email alerts –– Hook up to an API.
 
-Hook up to an API
+Find somewhere to publish application so it is available to public. (maybe)
 
 
 ### Project Tracker
