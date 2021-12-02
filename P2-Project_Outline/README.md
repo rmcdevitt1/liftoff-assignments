@@ -31,6 +31,8 @@ Make passwords more secure in database. (maybe)
 
 Get more familiar with Bootstrap.
 
+Email alerts.
+
 
 ### Project Tracker
 https://trello.com/b/8sieFcI1/capstone-project
