@@ -33,6 +33,8 @@ Get more familiar with Bootstrap.
 
 Email alerts.
 
+Hook up to an API
+
 
 ### Project Tracker
 https://trello.com/b/8sieFcI1/capstone-project
